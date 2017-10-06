@@ -1,2 +1,2 @@
-# gallery
+# Gallery
 http://limaoxu.com/gallery
